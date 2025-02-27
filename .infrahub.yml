@@ -92,3 +92,6 @@ queries:
     file_path: "generators/backbone_service.gql"
   - name: computed_circuit_description
     file_path: "transforms/computed_circuit_description.gql"
+
+schemas:
+  - tmp_.yml
